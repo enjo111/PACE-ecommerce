@@ -2,6 +2,14 @@
 
 Original full-stack portfolio project. React 19 + TypeScript + Vite, Express 5, and SQLite using Node's built-in `node:sqlite`. The supplied GitHub ZIP was reviewed as a feature reference; no source or branding was copied.
 
+![PACE sportswear storefront preview](preview.png)
+
+PACE is an editorial-style sportswear storefront concept with a responsive catalog, persistent shopping bag, demo checkout, customer accounts, and a protected admin studio.
+
+## Screenshots
+
+The preview above shows the responsive storefront landing page. The same interface includes product filtering, product detail and size selection, checkout confirmation, customer order history, and order management in the PACE studio.
+
 ## Run locally
 
 Use **Node.js 24 or later**. Run these commands from this `pace` folder, not the parent school-management project:
